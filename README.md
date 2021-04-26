@@ -6,7 +6,14 @@ Part 1/2: Develop code for an image classifier built with PyTorch (Jupyter Noteb
 
 Part 2/2: Convert the code into a command line application.
 
-# Running the application
+# Data
+
+The data is not included in this repo, but can be downloaded here:
+https://s3.amazonaws.com/content.udacity-data.com/nd089/flower_data.tar.gz
+
+The dataset is split into three parts, training, validation, and testing.
+
+# Running the Application
 
 1. Train
 
